@@ -1,5 +1,4 @@
-andydlin
+alvindlin
 ========
 
-My personal website. 
-New to GitHub but definitely liking it already.
+My brother's personal website, for fun. 
