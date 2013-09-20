@@ -10,3 +10,16 @@ body {
 .wrapper {
 	padding: 50px 0px;
 }
+
+h1 {
+	color: #ffffff;
+	font-size: 6em;
+	left: 50%;
+	margin: 0px;
+	opacity: 0.85;
+	position: absolute;
+	text-shadow: 1px 1px 2px #000000;
+	-moz-text-shadow: 1px 1px 2px #000000;
+	-webkit-text-shadow: 1px 1px 2px #000000;
+	top: 50%;
+}
