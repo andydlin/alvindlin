@@ -1,5 +1,10 @@
 body {
 	background: #ffffff;
+	background-image: url('../img/bg.png');
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	background-attachment: fixed;
 }
 
 .wrapper {
