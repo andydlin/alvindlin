@@ -1,0 +1,128 @@
+body {
+	background: #f5f5f5;
+	background-image: url('../img/yokoso.jpg');
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+.wrapper {
+	padding: 50px 0px;
+}
+
+.my-card,
+.fartscroll-testing {
+	background-color: #ffffff;
+	background-color: rgba(255,255,255,0.90);
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	box-shadow: 0px 1px 2px rgba(0,0,0,0.25);
+	-moz-box-shadow: 0px 1px 2px rgba(0,0,0,0.25);
+	-webkit-box-shadow: 0px 1px 2px rgba(0,0,0,0.25);
+}
+
+.img-wrapper {
+	padding: 15px 0px;
+	text-align: center;
+}
+
+.img-wrapper .img-circle {
+	background-color: #1cb9f7;
+	display: inline-block;
+	box-shadow: inset 0px 0px 5px rgba(0,0,0,0.5);
+	-moz-box-shadow: inset 0px 0px 5px rgba(0,0,0,0.5);
+	-webkit-box-shadow: inset 0px 0px 5px rgba(0,0,0,0.5);
+	padding: 5px;
+}
+
+.my-info .lead#motto {
+	color: #f71c70;
+	font-family: 'Indie Flower', cursive;
+	font-weight: 700;
+	padding: 0px 15px;
+	letter-spacing: -1px;
+	text-align: center;
+}
+
+.my-info p#info,
+.my-info .follow-me {
+	font-size: 0.95em;
+	padding: 0px 15px;
+	text-align: center;
+}
+
+span#pp {
+	border-bottom: 1px solid #444444;
+	border-top: 1px solid #444444;
+	letter-spacing: 2px;
+}
+
+hr.divider {
+	background-image: -webkit-linear-gradient(left,rgba(0,0,0,0),rgba(0,0,0,0.1),rgba(0,0,0,0));
+	background-image: -moz-linear-gradient(left,rgba(0,0,0,0),rgba(0,0,0,0.1),rgba(0,0,0,0));
+	background-image: -ms-linear-gradient(left,rgba(0,0,0,0),rgba(0,0,0,0.1),rgba(0,0,0,0));
+	background-image: -o-linear-gradient(left,rgba(0,0,0,0),rgba(0,0,0,0.1),rgba(0,0,0,0));
+	border: 0;
+	height: 1px;
+}
+
+.follow-me a {
+	background-color: #cccccc;
+	border-radius: 50%;
+	-moz-border-radius: 50%;
+	-webkit-border-radius: 50%;
+	color: #ffffff;
+	display: inline-block;
+	font-size: 1.35em;
+	padding: 11px 0px;
+	text-decoration: none;
+	transition: 0.5s;
+	-moz-transition: 0.5s;
+	-webkit-transition: 0.5s;
+	-o-transition: 0.5s;
+	width: 40px;
+}
+
+.fb-icon:hover {
+	background-color: #3B5998;
+}
+
+.twitter-icon:hover {
+	background-color: #269dda;
+}
+
+.instagram-icon:hover {
+	background-color: #785e51;
+}
+
+.linkedin-icon:hover {
+	background-color: #4875B4;
+}
+
+.use-them {
+	font-size: 1.5em;
+	padding: 0px 15px 15px;
+	text-align: center;
+}
+
+.use-them a {
+	color: #dddddd;
+	text-decoration: none;
+	transition: 0.5s;
+	-moz-transition: 0.5s;
+	-webkit-transition: 0.5s;
+	-o-transition: 0.5s;
+}
+
+.use-them a:hover {
+	color: #444444;
+}
+
+.fartscroll-testing {
+	font-size: 2em;
+	line-height: 500px;
+	margin: 100px 0px;
+	text-align: center;
+}
