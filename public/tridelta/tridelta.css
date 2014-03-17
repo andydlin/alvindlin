@@ -42,10 +42,22 @@ img {
     display: block;
     font-size: 1.15em;
     font-weight: 200;
-    padding: 7px 20px;
+    padding: 10px 20px;
+    transition: 0.25s;
+    -moz-transition: 0.25s;
+    -webkit-transition: 0.25s;
 }
 
 .navbar > li > a:hover {
     background-color: #fa91b4;
     text-decoration: none;
+}
+
+.header-cont h1 {
+    color: #ffaec9;
+    position: absolute;
+    top: 15px;
+    text-align: center;
+    text-shadow: 1px 1px 1px rgba(0,0,0,0.15);
+    width: 100%;
 }
