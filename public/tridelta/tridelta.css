@@ -2,6 +2,10 @@ h1, h2, h3, ul, p {
     margin: 0px;
 }
 
+h1, h2, h3 {
+    font-family: 'Apple Chancery';
+}
+
 img {
     max-width: 100%;
 }
