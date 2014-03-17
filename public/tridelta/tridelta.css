@@ -11,6 +11,10 @@ img {
     max-width: 100%;
 }
 
+body {
+    background-color: #fafafa;
+}
+
 .sidebar-cont {
     background-color: #ffaec9;
     float: left;
@@ -53,10 +57,14 @@ img {
     text-decoration: none;
 }
 
+.page-cont {
+    position: relative;
+}
+
 .header-cont h1 {
     color: #ffaec9;
     position: absolute;
-    top: 15px;
+    top: 25px;
     text-align: center;
     text-shadow: 1px 1px 1px rgba(0,0,0,0.15);
     width: 100%;
