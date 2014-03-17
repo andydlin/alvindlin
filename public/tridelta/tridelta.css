@@ -14,6 +14,7 @@ img {
 .sidebar-cont {
     background-color: #ffaec9;
     float: left;
+    height: 100%;
     position: fixed;
     width: 200px;
 }
@@ -21,6 +22,10 @@ img {
 #content {
     margin-left: 200px;
     overflow: hidden;
+}
+
+.navbar-cont {
+    margin-top: 50px;
 }
 
 .navbar {
@@ -37,6 +42,7 @@ img {
     display: block;
     font-size: 1.25em;
     font-weight: 200;
+    padding: 7px 20px;
 }
 
 .navbar > li > a:hover {
