@@ -1,5 +1,6 @@
 h1, h2, h3, ul, p {
     margin: 0px;
+    padding: 0px;
 }
 
 h1, h2, h3 {
@@ -33,6 +34,12 @@ img {
 
 .navbar > li > a {
     color: #ffffff;
+    display: block;
     font-size: 1.25em;
     font-weight: 200;
+}
+
+.navbar > li > a:hover {
+    background-color: #fa91b4;
+    text-decoration: none;
 }
