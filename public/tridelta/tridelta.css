@@ -24,7 +24,7 @@ img {
     overflow: hidden;
 }
 
-.navbar-cont {
+.nav-cont {
     margin-top: 50px;
 }
 
@@ -40,7 +40,7 @@ img {
 .navbar > li > a {
     color: #ffffff;
     display: block;
-    font-size: 1.25em;
+    font-size: 1.15em;
     font-weight: 200;
     padding: 7px 20px;
 }
