@@ -15,6 +15,10 @@ body {
     background-color: #fafafa;
 }
 
+.tac {
+    text-align: center;
+}
+
 .sidebar-cont {
     background-color: #ffaec9;
     float: left;
@@ -114,7 +118,8 @@ body {
     width: 24%;
 }
 
-.post-cont p {
+.post-cont p,
+.officer p {
     font-size: 0.95em;
     font-weight: 200;
     margin-top: 15px;

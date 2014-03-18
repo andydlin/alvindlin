@@ -13,7 +13,7 @@ $(window).load(function() {
         itemSelector: '.tile'
     });
 
-    var $container3 = $('.officers-cont');
+    var $container3 = $('#officers-cont');
     // initialize
     $container3.masonry({
         'gutter': 15,
