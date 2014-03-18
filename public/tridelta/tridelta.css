@@ -115,4 +115,6 @@ body {
 .post-cont p {
     font-size: 0.95em;
     font-weight: 200;
+    margin-top: 15px;
+    word-wrap: break-word;
 }
