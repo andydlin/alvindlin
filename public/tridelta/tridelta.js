@@ -1,5 +1,6 @@
-var container = $('#posts-cont');
-var msnry = new Masonry(container, {
-    // options
+var $container = $('#posts-cont');
+// initialize
+$container.masonry({
+    columnWidth: 200,
     itemSelector: '.post-cont'
 });
